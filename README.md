@@ -1,7 +1,7 @@
 helloworld("print")
 
-- 🔭 Hard Skills: C++, HTML5, CSS3, JavaScript, Python, Pygame, Git
-- 🌱 Current studies: CS50P - Python
+- 🔭 Hard Skills: C++, HTML5, CSS3, JavaScript, Python, Pygame, Git, OOP, Numpy, Customtkinter
+- 🌱 Current studies: CS50x
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=talindev&show_icons=true&theme=transparent" />
