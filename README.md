@@ -1,6 +1,6 @@
 helloworld("print")
 
-- 🔭 Hard Skills: C++, HTML5, CSS3, JavaScript, Python, Pygame, Git, OOP, Numpy, Customtkinter
+- 🔭 Hard Skills: C++, HTML5, CSS3, JavaScript, Python, Pygame, Git, OOP, Figma, Linux, Bash, Jupyter...
 - 🌱 Current studies: CS50x
 
 <div>
