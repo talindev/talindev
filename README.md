@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talindev" alt="talindev" /></a> </p>
 
-- ✨ I am currently proud of this project => [Particles Gravity Simulation w/ Pygame.](https://github.com/talindev/Particles-Gravity-Simulator-With-Pygame)
+- ✨ I am currently proud of this project => [Backpackify Web](https://github.com/talindev/Backpackify-Web)
 
-- 🌱 I’m currently learning => **Full Stack Development (JavaScript, CSS, Node.JS, MySQL) and Harvard's CS50x**
+- 🌱 I’m currently learning => **Rust**
 
 - 📫 How to reach me => **italo.business11@gmail.com**
 
