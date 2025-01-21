@@ -1,12 +1,12 @@
-<h1 align="center">💡 Junior Software Developer 💡</h1>
+<h1 align="center">💡 Full-stack Software Developer 💡</h1>
 <h2 align="center">helloworld("print")</h2>
-<h3 align="center">Obssesed with how the universe works through simulations. 🤓</h3>
+<h3 align="center">Obssesed with providing experiences through web apps. 🤓</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talindev" alt="talindev" /></a> </p>
 
 - ✨ I am currently proud of this project => [Backpackify Web](https://github.com/talindev/Backpackify-Web)
 
-- 🌱 I’m currently learning => **Rust**
+- 🌱 I’m currently learning => **React ecossystem**
 
 - 📫 How to reach me => **italo.business11@gmail.com**
 
