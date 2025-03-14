@@ -2,8 +2,6 @@
 <h2 align="center">helloworld("print")</h2>
 <h3 align="center">Obssesed with providing experiences through web apps. 🤓</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talindev" alt="talindev" /></a> </p>
-
 - ✨ I am currently proud of this project => [Backpackify Web](https://github.com/talindev/Backpackify-Web)
 
 - 🌱 I’m currently learning => **React ecossystem**
@@ -32,9 +30,3 @@
   <img align="center" alt="Talo-Bash" height="30" width="40" src="https://cdn.simpleicons.org/gnubash/4EAA25">
   <img align="center" alt="Talo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talindev&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="talindev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talindev&show_icons=true&theme=dracula&locale=en" alt="talindev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talindev&theme=dark" alt="talindev" /></p>
