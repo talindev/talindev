@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left"><br>- 🔭 Full-stack software engineer/Engenheiro de software full-stack<br>- 📚 I'm currently learning/Estou aprendendo atualmente: Spring Boot<br>- ⚡ Hobbies: Electric guitar/Guitarra, Using my telescope/Usar meu telescópio, Reading/Leitura</p>
+<p align="left"><br>- 🔭 Full-stack software engineer/Engenheiro de software full-stack<br>- 📚 I'm currently learning/Estou aprendendo atualmente: PHP + Laravel<br>- ⚡ Hobbies: Electric guitar/Guitarra, Using my telescope/Usar meu telescópio, Reading/Leitura</p>
 
 ###
 
