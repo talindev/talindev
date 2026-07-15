@@ -10,6 +10,15 @@
 
 ###
 
+<div align="center">
+  <a href="https://certificates.cs50.io/778905d4-3279-44f1-b5a2-73f3ed01b2a0.pdf?size=letter"><img src="https://img.shields.io/static/v1?message=I%20took%20CS50!&label=&color=1F6FEB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cs50x" /></a>
+  <a href="https://certificates.cs50.io/9c3ad6d3-9239-4b17-8721-317aef24a3df.pdf?size=letter"><img src="https://img.shields.io/static/v1?message=I%20took%20CS50P!&label=&color=F28C28&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cs50p" /></a>
+  <a href=""><img src="https://img.shields.io/static/v1?message=I%20am%20taking%20CS50SQL...&label=&color=2EA043&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cs50sql" /></a>
+  <a href=""><img src="https://img.shields.io/static/v1?message=I%20am%20taking%20CS502D...&label=&color=8250DF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cs502d" /></a>
+</div>
+
+###
+
 <h3 align="left">⚙️ About me</h3>
 
 ###
