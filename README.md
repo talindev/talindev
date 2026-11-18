@@ -34,14 +34,13 @@ Mechatronics Engineering senior focused on **Hardware Engineering**, **PCB Desig
 
 ---
 
-### 🔌 Featured Hardware & Low-Level Projects
+### 🔌 Hardware & Low-Level Projects
 
 | Project | Domain | Summary |
 | :--- | :--- | :--- |
 | **Dual 555/556 Sound Generator PCB (WIP)** | `Hardware • KiCad` | Custom PCB design featuring reverse-polarity protection, power indication, and DFM-ready Gerbers for fabrication. |
-| **[hermes](https://github.com/talindev)** | `C++ • Control & Telemetry` | Telescope control daemon implementing finite state machine logic and TCP/UDP telemetry. |
-| **[bat](https://github.com/talindev)** | `C • Linux / POSIX` | Low-level TCP socket client and server focused on network communication and manual memory management. |
-| **[CHIP-8 Emulator & c_archives](https://github.com/talindev/c_archives)** | `C • Systems Architecture` | Bytecode interpreter, opcode execution loop, and low-level systems programming fundamentals. |
+| **[bat](https://github.com/talindev/bat)** | `C • Linux / POSIX` | Low-level TCP socket client and server focused on network communication and manual memory management. |
+| **[birb](https://github.com/talindev/birb)** | `C99 • POSIX / Systems` | Zero-dependency terminal text editor written from scratch using `termios` raw mode, ANSI rendering, and C/C++ syntax highlighting. |
 
 ---
 
